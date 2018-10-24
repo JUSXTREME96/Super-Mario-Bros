@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: eb63bd80037deaf4e8f5658301b9a695
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - jumpClip: {fileID: 8300000, guid: 797873c418477ba49993cf35bd58279f, type: 3}
+  - groundcheck: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
